@@ -1,0 +1,5 @@
+mit-bih-arrhythmia-database-1.0.0/
+all_labels.npy
+all_segments.npy
+data_tranning.npy
+processed_ecg_segments.npy
